@@ -2,9 +2,6 @@
 
 ---
 
-![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
 ### About
 
 Writing about the revitalization of personal sites & the rise of the indie web.
