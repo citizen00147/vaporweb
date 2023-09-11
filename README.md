@@ -1,4 +1,4 @@
-![The Vaporweb](public/vaporweb-small.png)
+![The Vaporweb](public/vaporweb.png)
 
 ---
 
